@@ -86,18 +86,4 @@ int main()
     Beep(d5,500);
     Beep(f5,500);
     Beep(e5,1000);
-
-    Beep(e4,500);
-    Beep(a4,500);
-    Beep(b4,500);
-    Beep(c5,1000);
-
-    Beep(b4,500);
-    Beep(a4,500);
-    Beep(c5,1000);
-
-    Beep(b4,500);
-    Beep(a4,500);
-    Beep(e5,500);
-    Beep(e5,1000);
 }
